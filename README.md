@@ -85,4 +85,4 @@ Remember to call `PostBindings` after all bindings have been made. This will ens
 injector.PostBindings();
 ```
 
-That's it! You're now ready to start using LiteNinja in your C# applications.
+That's it! You're now ready to start using LiteNinja Injection in your Unity3d applications.
