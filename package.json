@@ -1,0 +1,22 @@
+{
+  "name": "com.liteninja.injection",
+  "version": "1.0.0",
+  "displayName": "LiteNinja Injection",
+  "description": "lightweight dependency injection framework for Unity3D",
+  "unity": "2022.1",
+  "documentationUrl": "https://github.com/sponticelli/LiteNinja-Injection/blob/main/README.md",
+  "changelogUrl": "https://github.com/sponticelli/LiteNinja-Injection/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/sponticelli/LiteNinja-Injection/blob/main/LICENSE.md",
+  "dependencies": {
+  },
+  "keywords": [
+    "Dependency Injection",
+    "Unity3D",
+    "Clean Code"
+  ],
+  "author": {
+    "name": "Sandro Ponticelli",
+    "email": "sandro.ponticelli@gmail.com",
+    "url": ""
+  }
+}
